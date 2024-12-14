@@ -15,4 +15,4 @@ Im sorry but no. This "Based in CXAPI Executor" is not open source. the Cloudy a
 2) Extract the .zip
 3) Launch Windows Form Executor.exe
 4) Enjoy
-5) Dont EVER Complain theres bugs. IS 0.5.1. SO DEAL WITH IT!
+5) # Dont EVER Complain about the DAMN bugs. IS 0.5.1. AND ITS FULL BETA SO DEAL WITH IT!
